@@ -1,5 +1,5 @@
 # Project YOLO Human Detection
-Proyek ini menggunakan YOLOv8n untuk mendeteksi dan menghitung jumlah manusia dalam video.
+Proyek ini menggunakan YOLOv8n untuk mendeteksi dan menghitung jumlah manusia dalam video. Dibuat secara tim bersama Anthony, Alif, dan Hazel
 
 ## Cara menjalankan
 
